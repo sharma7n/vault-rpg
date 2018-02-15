@@ -1,0 +1,39 @@
+- Party to inflitrate vault guarding treasure
+
+- Gimmicks: 
+    - mimics, 
+    - treasure box puzzles, 
+    - treasure box items, 
+    - lightning magic, 
+    - gold / silver / copper puzzles
+    
+- Scenes:
+    - Forest Outskirts -> Town
+    - Town during daytime -> Town during nighttime
+    - Town during nighttime -> Mansion
+    - Mansion -> Keep
+    - Keep -> Hub
+    - Hub ->
+        - Branch A
+        - Branch B
+        - Branch C
+        - Branch D
+        - Vault
+    - Vault -> Treasure Room
+    - Treasure Room -> Big Treasure
+    - Big Treasure -> Mountain Path
+    - Mountain Path -> Forest Outskirts
+
+- Party:
+    - Rogue (Dungeon Delver / Con Artist)
+        - Unlock: Open locked chests and doors
+        - Passage: Find hidden passages in walls
+        - Coin Toss: Deal damage by throwing Gold
+    - Mage (Transmuter / Lightning Mage)
+        - Bolt: Deal lightning damage and supply power to machines.
+        - Smelt: Deal fire damage to metallic targets and melt ore into metal.
+        - Magnet: Inflicts Slow or Stop on metallic target. Manipulates metal objects.
+    - Warrior (Axe Knight / Item Maker)
+        - Sunder: Damage and debuff target. Breaks objects.
+        - Intimidate: Inflicts Fear on a humanoid target.
+        - Potion: Crafts a Potion from raw materials.
