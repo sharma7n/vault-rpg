@@ -1,0 +1,43 @@
+The Town of Gilcaster
+
+Surrounded by forests on three sides, and mountains on one side.
+
+- Well
+- Guard Tower
+- Inn
+- Pub
+- Item Shop
+- Weapon Shop
+- Armor Shop
+- Accessory Shop
+- Magic Shop
+- Temple
+- Mansion
+- Noble House
+- Merchant's House
+- Common Residence
+
+Entrance:
+- Guard Tower
+- Inn
+
+Outskirts:
+- Forests
+- Exit from Gilcaster Keep
+- Common Residences
+- Temple
+
+Town Square:
+- Weapon / Armor Shops
+- Well
+- Pub
+- Merchant's Houses
+
+Uptown:
+- Accessory / Magic Shops
+- Noble Houses
+
+Gilcaster Estate:
+- Gardens
+- Mansion
+- Gilcaster Keep
